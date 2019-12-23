@@ -1,0 +1,11 @@
+E:\程式練習\LINQToXML\LINQToXML\bin\Debug\netcoreapp3.1\LINQToXML.exe
+E:\程式練習\LINQToXML\LINQToXML\bin\Debug\netcoreapp3.1\LINQToXML.deps.json
+E:\程式練習\LINQToXML\LINQToXML\bin\Debug\netcoreapp3.1\LINQToXML.runtimeconfig.json
+E:\程式練習\LINQToXML\LINQToXML\bin\Debug\netcoreapp3.1\LINQToXML.runtimeconfig.dev.json
+E:\程式練習\LINQToXML\LINQToXML\bin\Debug\netcoreapp3.1\LINQToXML.dll
+E:\程式練習\LINQToXML\LINQToXML\bin\Debug\netcoreapp3.1\LINQToXML.pdb
+E:\程式練習\LINQToXML\LINQToXML\obj\Debug\netcoreapp3.1\LINQToXML.csprojAssemblyReference.cache
+E:\程式練習\LINQToXML\LINQToXML\obj\Debug\netcoreapp3.1\LINQToXML.AssemblyInfoInputs.cache
+E:\程式練習\LINQToXML\LINQToXML\obj\Debug\netcoreapp3.1\LINQToXML.AssemblyInfo.cs
+E:\程式練習\LINQToXML\LINQToXML\obj\Debug\netcoreapp3.1\LINQToXML.dll
+E:\程式練習\LINQToXML\LINQToXML\obj\Debug\netcoreapp3.1\LINQToXML.pdb
